@@ -226,5 +226,17 @@
     "session_id": "5sslg55ejbg42j2k",
     "user_id": null,
     "expired_time": 1557933594.971615
+  },
+  {
+    "id": 38,
+    "session_id": "dl5l25e2dllk52d5",
+    "user_id": 2,
+    "expired_time": 1559207895.8517928
+  },
+  {
+    "id": 39,
+    "session_id": "ggeje2grsl5llge4",
+    "user_id": 2,
+    "expired_time": 1559209328.6901708
   }
 ]
