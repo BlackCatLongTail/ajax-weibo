@@ -83,7 +83,7 @@ def formatted_header(headers, code=200):
     Content-Type: text/html
     Set-Cookie: user=gua
     """
-    header = 'HTTP/1.1 {} OK GUA\r\n'.format(code)
+    header = 'HTTP/1.1 {} OK wendy\r\n'.format(code)
     header += ''.join([
         '{}: {}\r\n'.format(k, v) for k, v in headers.items()
     ])

@@ -79,13 +79,6 @@ def register_view(request):
     return html_response(body)
 
 
-# RESTFul
-# GET /login
-# POST /login
-# UPDATE /user
-# DELETE /user
-#
-
 def route_dict():
     r = {
         '/user/login': login,
